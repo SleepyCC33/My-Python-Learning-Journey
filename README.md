@@ -12,3 +12,7 @@
   I wrote the whole of it. It is allowed to edit as GNU.
 ## Contact
   If you have any other problem, feel free to contact me through my email(26048121@qq.com)
+## Learning Reflections and Plans
+  **Learning Reflection & Future Plans**
+  As a long-time GitHub user, I've always downloaded software from GitHub rather than contributing my own. This submission task made me realize the importance—and difficulty—of consistent naming conventions and writing clear README documentation. Writing code comes easily to me, but crafting a README is quite a hassle.
+  This project gave me hands-on experience with code storage and taught me about licensing. Moving forward, I plan to use this repository as my learning journal: committing each time I master a new concept. I'll also use branches to manage different projects, optimize my legacy code, and let these commits document my growth journey.
